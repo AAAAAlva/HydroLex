@@ -3,7 +3,6 @@ HydroLex is an LLM-guided Agentic Retrieval-Augmented Generation (RAG) system fo
 The system integrates document processing, semantic retrieval, and iterative LLM reasoning to identify relevant regulatory information and generate evidence-grounded answers.
 
 # What it does
-- **Natural-language regulatory questions** —
 - **Regulatory Q&A** — Answers environmental policy questions using retrieved evidence from regulatory documents and supporting references.
 - **Automated knowledge base construction** — Processes regulatory documents, generates text embeddings, and builds a searchable FAISS vector database.
 - **LLM-guided query generation** — Uses an LLM to formulate search queries based on the user's question and previously retrieved context.

@@ -37,7 +37,7 @@ The current implementation uses Ollama to serve Llama 3.1 locally.
 
 
 # Configuration reference
-The default configuration in Ag_llama.py is:
+The default configuration in [Ag_llama.py]() is:
 ```bash
 OLLAMA_API_BASE = "your_local_host"
 EMBEDDING_MODEL_NAME = "thenlper/gte-small"
